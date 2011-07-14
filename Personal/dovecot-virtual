@@ -1,0 +1,7 @@
+INBOX
+    inthread refs (
+        or
+            (or (to jonathan.knowles) (from jonathan.knowles))
+            (cc jonathan.knowles))
+    not (from svcacct_scale)
+    not (subject "directory QUOTA exceeded")
